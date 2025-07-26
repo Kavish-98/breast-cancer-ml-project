@@ -58,3 +58,27 @@ The workflow is organized into three Jupyter Notebooks covering data understandi
    ```bash
    git clone https://github.com/your-username/breast-cancer-ml-project.git
    cd breast-cancer-ml-project
+   
+2. Install required packages:
+   pip install -r requirements.txt
+
+3.Launch Jupyter or Google colab
+
+🧠 Project Goals
+* Understand key predictors for cancer patient survival and mortality
+
+* Compare performance of different classification models
+
+* Tune model parameters for better accuracy and generalization
+
+🙋‍♂️ Author
+Kavish Vimansha
+
+Machine Learning & Data Science Enthusiast
+
+LinkedIn
+
+
+
+
+
