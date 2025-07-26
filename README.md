@@ -76,7 +76,7 @@ Kavish Vimansha
 
 Machine Learning & Data Science Enthusiast
 
-LinkedIn
+LinkedIn - https://www.linkedin.com/in/kavish-weerasingha-b466a6322/?originalSubdomain=lk
 
 
 
